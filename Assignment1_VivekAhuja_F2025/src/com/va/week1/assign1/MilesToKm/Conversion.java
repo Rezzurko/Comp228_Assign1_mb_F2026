@@ -1,0 +1,24 @@
+package com.va.week1.assign1.MilesToKm;
+
+import java.util.Scanner;
+
+public class Conversion {
+
+	public void MilesToKm() {
+		
+		Scanner sc = new Scanner(System.in);
+		
+		double miles, kilom;
+		
+		System.out.print("Enter the amount of miles: ");
+
+		miles = sc.nextDouble();
+		
+		kilom = miles * 1.609;
+		
+		System.out.println(miles + " miles in kilometeres is " + kilom + " km");
+		
+		sc.close();
+	}
+
+}
