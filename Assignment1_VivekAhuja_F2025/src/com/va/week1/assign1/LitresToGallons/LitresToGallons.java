@@ -1,5 +1,9 @@
 package com.va.week1.assign1.LitresToGallons;
-
+/**
+ * @author Michael
+ * @since 2026-09-17
+ * This code is used to convert litres to gallons in Java!
+ */
 import java.util.Scanner;
 
 public class LitresToGallons {

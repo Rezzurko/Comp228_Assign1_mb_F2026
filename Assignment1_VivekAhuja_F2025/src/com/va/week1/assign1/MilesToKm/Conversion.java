@@ -1,5 +1,9 @@
 package com.va.week1.assign1.MilesToKm;
-
+/**
+ * @author Michael
+ * @since 2026-09-17
+ * This code is used to convert miles to kilometers in Java!
+ */
 import java.util.Scanner;
 
 public class Conversion {

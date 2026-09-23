@@ -1,6 +1,10 @@
 package com.va.week1.assign1.moneyconv;
 import java.util.Scanner;
-
+/**
+ * @author Michael
+ * @since 2026-09-17
+ * This code is used to convert the currency from CAD to USD in Java!
+ */
 public class MoneyConv {
 	public void cadToUsd() {
 		Scanner sc = new Scanner(System.in);
